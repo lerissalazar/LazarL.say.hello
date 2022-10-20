@@ -1,6 +1,8 @@
 ﻿//lerissa lazar
 //10-19-22
 //say hello
+//this project will ask the user to input their name and the computer will output hello (name), it will then
+//ask the user if he or she would like to introduce themselves again.
 
 Console.Clear();
 
